@@ -1,5 +1,4 @@
 ## Hi there 👋
-# We are Team ReproLoom
 
 Welcome to ReproLoom – where innovation meets simplicity. We're revolutionizing the reprography experience through cutting-edge digital solutions. 
 
